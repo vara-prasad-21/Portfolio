@@ -9,7 +9,7 @@ Welcome to my personal portfolio repository! This website highlights my backgrou
 
 The portfolio is built using clean and responsive HTML, CSS, and JavaScript, ensuring it looks great on all devices.
 
-Feel free to explore the code or visit the live site [add your live URL here].
+Feel free to explore the code
 
 
 >> Technologies Used
@@ -26,3 +26,11 @@ Feel free to explore the code or visit the live site [add your live URL here].
 ---
 
 Thank you for visiting my portfolio!
+
+
+
+
+https://github.com/user-attachments/assets/c37c7b2d-4050-4d8a-860a-aa254c02a907
+
+
+
